@@ -1,0 +1,44 @@
+.voyager .side-menu .navbar-header {
+    background: #a52c3e;
+    /*border-color: #22A7F0;*/
+}
+
+.voyager .alert.alert-info {
+    background-color: #a52c3e;
+    color: #fff;
+    border-color: rgba(0,0,0,.1);
+}
+
+.voyager .pagination .active>a, .voyager .pagination .active>a:focus, .voyager .pagination .active>a:hover, .voyager .pagination .active>span:focus, .voyager .pagination .active>span:hover, .voyager .pagination .active span {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #a52c3e;
+    border-color: #a52c3e;
+    outline: none;
+}
+
+.voyager .breadcrumb a {
+    color: #a52c3e;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li>a {
+    color: #ffffff;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li>a:hover {
+    color: #fff;
+    background: #a52c3e;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li.active>a{
+	background: #a52c3e;
+}
+
+.voyager .btn.btn-danger {
+    background: #344356;
+    color: #fff;
+    border: 0;
+    border-radius: 3px;
+    opacity: .9;
+}
